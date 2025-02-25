@@ -1,4 +1,4 @@
-//better approach
+//optimal approach
 int getSecondLargest(vector<int> &arr) {
         
         int l=arr[0];
@@ -13,4 +13,4 @@ int getSecondLargest(vector<int> &arr) {
             }
         }return sl;
     }
-//optimal approach
+
